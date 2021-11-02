@@ -1,3 +1,4 @@
 # Receita
 
-Projeto Ultilizando O framework Django, na linguagem em python
+Projeto Ultilizando O framework Django
+Com linguagem em python
